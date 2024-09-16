@@ -5,7 +5,7 @@ I grew up speaking Arabic with my parents and family and while I can read and wr
 Initially, I thought that a sundial can follow the template of a clock and so I used a white/clear acrylic to cut and engrave a circular clock. </br> 
 After doing a bunch of the readings and familiarizing myself a little more with the concept of a sundial, I realized that a lot of math went into making one (I realize how dumb I sound writing this). And so I remade it using the calculator adjusting some of the design elements and the numbers to match my original idea. I also did use a clear acrylic which made me kind of worried about its ability to cast a shadow but I used a darker acrylic for the Gnomon which made the shadow appear. 
 
-![IMG_6093 2](https://github.com/user-attachments/assets/a3625f03-5378-4c25-9449-8bcbe8f4c193)
+<img src="https://github.com/user-attachments/assets/a3625f03-5378-4c25-9449-8bcbe8f4c193" width="500"/>
 
 
 ![IMG_6096 2](https://github.com/user-attachments/assets/f13cf11f-8667-469a-8253-0eb55be4567e)
