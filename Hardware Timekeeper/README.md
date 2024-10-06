@@ -2,9 +2,18 @@ For this week's assignment, I had a bunch of really cool ideas that I really wan
 </br> 
 These were the values displayed.
 
+
+https://github.com/user-attachments/assets/0e66677d-3c64-4d14-81f3-a1ee992eddc5
+
+
 </br> 
 What I ended up doing was using an OLED screen display and three buttons to read and update the time elapsed since the start of the program. It uses the same logic as blinkwithoutdelays with the millis function and calculating the time that has elapsed and comparing it to an interval of 1 second. But the code also stores variables for seconds, minutes and hours and increments the time based on that. 
 </br> 
 Since arduino does not have an internal clock with it, we decided to add 3 buttons, an hour increment button, a minute increment button and a reset button to reset everything to 00:00:00 on the OLED display. 
 </br> 
 I initially had some issues with the buttons and I wasn’t sure why. My circuit and it’s wiring was pretty messy (at least compared to Melika’s who I was doing the assignment with) but I also did not use resistors and I used Input Pullup in my function but that didn’t work so I ended up attaching resistors and then the buttons worked. 
+
+
+https://github.com/user-attachments/assets/1111957d-d51e-4349-8405-0482c706c227
+
+![IMG_6608](https://github.com/user-attachments/assets/b1c2a813-59e1-477e-b508-55cee065c2e9)
